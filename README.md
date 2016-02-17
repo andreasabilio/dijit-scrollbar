@@ -4,7 +4,7 @@ Scrollbar for Dojo's Dijit widget toolkit.
 This scrollbar implementation will only render on windows and linux, falling back to native on android and osx.
 
 ## Usage
-![diagram](http://www.abilio.dk/?p=416)
+![diagram](http://www.abilio.dk/wp-content/uploads/2016/02/scrollbar-nodes-small.png)
 
 ```javascript
 this.scrollbars = new ScrollBars({
